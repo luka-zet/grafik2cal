@@ -1,0 +1,5 @@
+openpyxl>=3.0.5
+pyexcel>=0.6.5
+pyexcel-xls>=0.6.1
+pyexcel-xlsx>=0.6.0
+ics>=0.7
