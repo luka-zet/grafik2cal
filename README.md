@@ -1,13 +1,21 @@
 # grafik2cal
 
-Create venv
+Create venv:
+```bash
 python3 -m venv
+````
 
 activate venv
+````bash
 source venv/bin/activate
+````
 
-install dependencies after acticivating venv
-pip3  install -r requirements.txt
+Install requirements in venv (after activating)
+```bash
+pip3 install -r requirements.txt
+````
 
-Usage:
+Usage
+````bash
 main.py {filename.xls}
+````
