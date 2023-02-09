@@ -2,7 +2,7 @@
 
 Create venv:
 ```bash
-python3 -m venv
+python3 -m venv venv
 ````
 
 activate venv
